@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NameStyle">
+        <item name="android:textColor">#C10D0D</item>
+        <item name="android:textColorHighlight">#371D1D</item>
+        <item name="android:textColorLink">#591515</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+</resources>
